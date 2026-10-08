@@ -8,6 +8,6 @@
 - Python functions are well commented to understand the detailed operations.
 - Prompt engineering is limited at this point to specific text words / sentences associated to the file content.
 - EX. Project:  files setup: 
-  - ComptiaSecurity.doc GSEC_Study_Guide.doc Security_Plus_Study_Guide.doc 
+- ComptiaSecurity.doc GSEC_Study_Guide.doc Security_Plus_Study_Guide.doc 
 - Prompts - results
 
